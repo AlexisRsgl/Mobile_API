@@ -1,0 +1,18 @@
+API : 
+-Connexion (email & password)
+-Inscription (prenom & nom & email & password (Maj, min8, carac spé, chiffre) & password_confirmation)
+-Déconnexion
+-Affichage produits
+-Affichage liste
+-Ajouter produit à la liste
+-Retirer produit de la liste
+
+Axios :
+-[Relier l'API au Mobile]
+
+
+Mobile : 
+-Page 1 ==> Connexion
+-Page 2 ==> Inscription
+-Page 3 ==> Liste
+-Page 4 ==> Produits
